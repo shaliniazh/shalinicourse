@@ -6,6 +6,5 @@ Tomato
 Potato
 Sugar
 Salt
-
-egg
 chicken
+white curd
