@@ -5,3 +5,4 @@ Rice
 Tomato
 Potato
 Sugar
+Salt
