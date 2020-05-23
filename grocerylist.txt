@@ -6,3 +6,6 @@ Tomato
 Potato
 Sugar
 Salt
+
+egg
+chicken
